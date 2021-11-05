@@ -14,7 +14,7 @@ namespace Addition
             Calculator.Sum(16, 34);
             Calculator.Sub(13, 9);
             Calculator.Mult(22, 3);
-            Calculator.Div(17, 0);
+            Calculator.Div(17, 17);
             Calculator.Div(20, 10);
 
             Console.ReadKey();
